@@ -1,0 +1,51 @@
+*InvoiceNo,*Customer,*InvoiceDate,*DueDate,Terms,Location,Memo,*Item(Product/Service),ItemDescription,ItemQuantity,ItemRate,*ItemAmount,Item Tax Amount,*Item Tax Code
+ALW20231216,Alex White,16/12/2023,18/12/2023,,,,Service Fee,Alex White,,,770.40,77.04,GST
+CA20231216,Dr Jamie Wilson,16/12/2023,18/12/2023,,,,Service Fee,Casey Anderson,,,203.22,20.32,GST
+AS20231216,Dr Alex Smith,16/12/2023,18/12/2023,,,,Service Fee,Dr Alex Smith,,,3238.65,323.87,GST
+AT20231216,Dr Avery Thompson,16/12/2023,18/12/2023,,,,Service Fee,Dr Avery Thompson,,,723.29,72.33,GST
+AW20231216,Dr Avery Wang,16/12/2023,18/12/2023,,,,Service Fee,Dr Avery Wang,,,2435.68,243.57,GST
+CL20231216,Dr Jamie Wilson,16/12/2023,18/12/2023,,,,Service Fee,Dr Cameron Lee,,,955.46,95.55,GST
+CAL20231216,Dr Cameron Li,16/12/2023,18/12/2023,,,,Service Fee,Dr Cameron Li,,,2596.16,259.62,GST
+CK20231216,Dr Casey Kim,16/12/2023,18/12/2023,,,,Service Fee,Dr Casey Kim,,,975.54,97.55,GST
+JG20231216,Dr Jamie Garcia,16/12/2023,18/12/2023,,,,Service Fee,Dr Jamie Garcia,,,762.60,76.26,GST
+JW20231216,Dr Jamie Wilson,16/12/2023,18/12/2023,,,,Service Fee,Dr Jamie Wilson,,,6076.05,607.61,GST
+JM20231216,Dr Jordan Martinez,16/12/2023,18/12/2023,,,,Service Fee,Dr Jordan Martinez,,,1897.57,189.76,GST
+JP20231216,Dr Jordan Patel,16/12/2023,18/12/2023,,,,Service Fee,Dr Jordan Patel,,,1649.75,164.97,GST
+MOB20231216,Dr Morgan Bailey,16/12/2023,18/12/2023,,,,Service Fee,Dr Morgan Bailey,,,2313.69,231.37,GST
+MB20231216,Dr Morgan Brooks,16/12/2023,18/12/2023,,,,Service Fee,Dr Morgan Brooks,,,1876.63,187.66,GST
+RD20231216,Dr Riley Davis,16/12/2023,18/12/2023,,,,Service Fee,Dr Riley Davis,,,349.28,34.93,GST
+RZ20231216,Dr Riley Zhang,16/12/2023,18/12/2023,,,,Service Fee,Dr Riley Zhang,,,1760.86,176.09,GST
+TJ20231216,Dr Taylor Johnson,16/12/2023,18/12/2023,,,,Service Fee,Dr Taylor Johnson,,,1741.52,174.15,GST
+TM20231216,Dr Taylor Murphy,16/12/2023,18/12/2023,,,,Service Fee,Dr Taylor Murphy,,,1586.91,158.69,GST
+JB20231216,Violet Bennett,16/12/2023,18/12/2023,,,,Service Fee,Jordan Brown,,,295.98,29.60,GST
+ML20231216,Morgan Lewis,16/12/2023,18/12/2023,,,,Service Fee,Morgan Lewis,,,97.50,9.75,GST
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
